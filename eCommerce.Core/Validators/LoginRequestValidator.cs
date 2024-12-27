@@ -11,7 +11,7 @@ public class LoginRequestValidator:AbstractValidator<LoginRequest>
        RuleFor(temp=>temp.Email).NotEmpty().WithMessage("Email Is Required")
                                 .EmailAddress().WithMessage("Invalid Email Address Format");
 
-       RuleFor(temp=>temp.Password).NotEmpty().WithMessage("Password is required");
+       RuleFor(temp=>temp.Password).NotEmpty().WithMessage("Password is Required");
     }
 
 }
