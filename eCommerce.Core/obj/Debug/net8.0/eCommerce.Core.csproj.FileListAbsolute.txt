@@ -1,0 +1,12 @@
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/bin/Debug/net8.0/eCommerce.Core.deps.json
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/bin/Debug/net8.0/eCommerce.Core.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/bin/Debug/net8.0/eCommerce.Core.pdb
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.csproj.AssemblyReference.cache
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.AssemblyInfoInputs.cache
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.AssemblyInfo.cs
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.csproj.CoreCompileInputs.cache
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/refint/eCommerce.Core.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.pdb
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/ref/eCommerce.Core.dll
