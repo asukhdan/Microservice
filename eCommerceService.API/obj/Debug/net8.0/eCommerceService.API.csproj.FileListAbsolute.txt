@@ -37,3 +37,8 @@
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/obj/Debug/net8.0/eCommerceService.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/obj/Debug/net8.0/eCommerceService.API.sourcelink.json
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerceService.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll

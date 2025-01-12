@@ -13,3 +13,4 @@
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Infrastructure/bin/Debug/net8.0/eCommerce.Core.dll
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Infrastructure/bin/Debug/net8.0/eCommerce.Core.pdb
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Infrastructure/obj/Debug/net8.0/eCommerc.0C272DDA.Up2Date
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Infrastructure/obj/Debug/net8.0/eCommerce.Infrastructure.sourcelink.json

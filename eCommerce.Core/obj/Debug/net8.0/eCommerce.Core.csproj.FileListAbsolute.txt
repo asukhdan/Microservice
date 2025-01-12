@@ -10,3 +10,4 @@
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/refint/eCommerce.Core.dll
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.pdb
 /Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/ref/eCommerce.Core.dll
+/Users/ashishsukhdane/Documents/Project/Microservice/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.sourcelink.json
